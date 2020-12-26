@@ -1,0 +1,408 @@
+2020-07-21 22:06:27,221 - phantom_go - INFO - 信息长度:1
+2020-07-21 22:06:27,221 - phantom_go - INFO - ['name?']
+2020-07-21 22:12:09,800 - phantom_go - INFO - 信息长度:1
+2020-07-21 22:12:09,821 - phantom_go - INFO - ['move']
+2020-07-21 22:13:00,749 - phantom_go - INFO - 信息长度:1
+2020-07-21 22:13:00,749 - phantom_go - INFO - ['name?']
+2020-07-21 22:13:06,241 - phantom_go - INFO - 信息长度:2
+2020-07-21 22:13:06,241 - phantom_go - INFO - ['move', 'go']
+2020-07-22 07:43:32,078 - phantom_go - INFO - 信息长度:1
+2020-07-22 07:43:32,079 - phantom_go - INFO - ['name?']
+2020-07-22 07:43:40,935 - phantom_go - INFO - 信息长度:2
+2020-07-22 07:43:40,935 - phantom_go - INFO - ['move', 'go']
+2020-07-23 16:24:57,673 - phantom_go - INFO - 信息长度:1
+2020-07-23 16:25:33,309 - phantom_go - INFO - ['name?']
+2020-07-23 16:27:35,908 - phantom_go - INFO - 信息长度:1
+2020-07-23 16:27:36,111 - phantom_go - INFO - ['name？']
+2020-07-23 16:28:12,012 - phantom_go - INFO - 信息长度:2
+2020-07-23 16:28:12,216 - phantom_go - INFO - ['new', 'white']
+2020-07-23 16:32:17,253 - phantom_go - INFO - 信息长度:2
+2020-07-23 16:32:17,472 - phantom_go - INFO - ['move', 'go']
+2020-07-23 16:34:40,564 - phantom_go - INFO - 信息长度:1
+2020-07-23 16:34:40,564 - phantom_go - INFO - ['name?']
+2020-07-23 16:34:57,363 - phantom_go - INFO - 信息长度:1
+2020-07-23 16:34:57,363 - phantom_go - INFO - ['name?']
+2020-07-23 16:35:05,241 - phantom_go - INFO - 信息长度:2
+2020-07-23 16:35:05,241 - phantom_go - INFO - ['new', 'white']
+2020-07-23 16:35:12,101 - phantom_go - INFO - 信息长度:2
+2020-07-23 16:35:12,101 - phantom_go - INFO - ['move', 'go']
+2020-07-23 16:35:20,834 - phantom_go - INFO - 信息长度:1
+2020-07-23 16:35:20,834 - phantom_go - INFO - ['accept']
+2020-07-23 16:35:20,834 - phantom_go - ERROR - 被接受的点为：（4，5）
+2020-07-23 16:35:58,467 - phantom_go - INFO - 信息长度:2
+2020-07-23 16:35:58,467 - phantom_go - INFO - ['move', 'go']
+2020-07-23 16:36:15,081 - phantom_go - INFO - 信息长度:1
+2020-07-23 16:36:15,081 - phantom_go - INFO - ['acept']
+2020-07-23 16:36:22,721 - phantom_go - INFO - 信息长度:1
+2020-07-23 16:36:22,721 - phantom_go - INFO - ['accept']
+2020-07-23 16:36:22,721 - phantom_go - ERROR - 被接受的点为：（3，5）
+2020-07-23 21:51:10,994 - phantom_go - INFO - 信息长度:1
+2020-07-23 21:51:11,103 - phantom_go - INFO - ['name?']
+2020-07-23 21:56:29,679 - phantom_go - INFO - 信息长度:1
+2020-07-23 21:56:29,679 - phantom_go - INFO - ['accept']
+2020-07-23 21:56:29,679 - phantom_go - ERROR - 被接受的点为：（4，5）
+2020-07-23 21:56:42,586 - phantom_go - INFO - 信息长度:2
+2020-07-23 21:56:42,586 - phantom_go - INFO - ['move', 'go']
+2020-07-23 21:58:29,811 - phantom_go - INFO - 信息长度:1
+2020-07-23 21:58:29,811 - phantom_go - INFO - ['accept']
+2020-07-23 21:58:29,811 - phantom_go - ERROR - 被接受的点为：（6，6）
+2020-07-25 20:59:57,632 - phantom_go - INFO - 信息长度:1
+2020-07-25 20:59:57,755 - phantom_go - INFO - ['']
+2020-07-25 20:59:57,755 - phantom_go - INFO - 信息长度:1
+2020-07-25 20:59:57,755 - phantom_go - INFO - ['name?']
+2020-07-25 21:00:45,247 - phantom_go - INFO - 信息长度:2
+2020-07-25 21:00:45,247 - phantom_go - INFO - ['new', 'black\\']
+2020-07-25 21:01:09,117 - phantom_go - INFO - 信息长度:1
+2020-07-25 21:01:09,117 - phantom_go - INFO - ['error']
+2020-07-25 21:01:35,175 - phantom_go - INFO - 信息长度:2
+2020-07-25 21:01:35,175 - phantom_go - INFO - ['new', 'black']
+2020-07-25 21:01:42,218 - phantom_go - INFO - 信息长度:1
+2020-07-25 21:01:42,218 - phantom_go - INFO - ['accept']
+2020-07-25 21:01:42,218 - phantom_go - ERROR - 被接受的点为：（6，5）
+2020-07-25 21:01:52,475 - phantom_go - INFO - 信息长度:2
+2020-07-25 21:01:52,475 - phantom_go - INFO - ['move', 'go']
+2020-07-25 21:01:57,480 - phantom_go - INFO - 信息长度:1
+2020-07-25 21:01:57,480 - phantom_go - INFO - ['accept']
+2020-07-25 21:01:57,480 - phantom_go - ERROR - 被接受的点为：（5，5）
+2020-07-25 21:02:13,730 - phantom_go - INFO - 信息长度:2
+2020-07-25 21:02:13,730 - phantom_go - INFO - ['move', 'go']
+2020-07-25 21:02:48,310 - phantom_go - INFO - 信息长度:1
+2020-07-25 21:02:48,310 - phantom_go - INFO - ['refuse']
+2020-07-25 21:02:48,310 - phantom_go - ERROR - 被拒绝的点为：（4，5）
+2020-07-25 21:02:57,021 - phantom_go - INFO - 信息长度:1
+2020-07-25 21:02:57,021 - phantom_go - INFO - ['refuse']
+2020-07-25 21:02:57,021 - phantom_go - ERROR - 被拒绝的点为：（4，4）
+2020-07-25 21:03:03,700 - phantom_go - INFO - 信息长度:1
+2020-07-25 21:03:03,700 - phantom_go - INFO - ['acccept']
+2020-07-25 21:03:10,026 - phantom_go - INFO - 信息长度:1
+2020-07-25 21:03:10,027 - phantom_go - INFO - ['accept']
+2020-07-25 21:03:10,027 - phantom_go - ERROR - 被接受的点为：（4，6）
+2020-07-25 21:04:05,333 - phantom_go - INFO - 信息长度:3
+2020-07-25 21:04:05,333 - phantom_go - INFO - ['taked', '1', '(4,6)']
+2020-07-25 21:04:05,334 - phantom_go - ERROR - 我方被提子
+2020-07-25 21:06:04,333 - phantom_go - INFO - 信息长度:1
+2020-07-25 21:06:04,334 - phantom_go - INFO - ['name?']
+2020-07-25 21:06:09,846 - phantom_go - INFO - 信息长度:2
+2020-07-25 21:06:09,846 - phantom_go - INFO - ['new', 'black']
+2020-07-25 21:06:15,632 - phantom_go - INFO - 信息长度:1
+2020-07-25 21:06:15,633 - phantom_go - INFO - ['accept']
+2020-07-25 21:06:15,633 - phantom_go - ERROR - 被接受的点为：（4，4）
+2020-07-25 21:06:26,585 - phantom_go - INFO - 信息长度:2
+2020-07-25 21:06:26,586 - phantom_go - INFO - ['move', 'go']
+2020-07-25 21:06:35,660 - phantom_go - INFO - 信息长度:1
+2020-07-25 21:06:35,660 - phantom_go - INFO - ['accept']
+2020-07-25 21:06:35,660 - phantom_go - ERROR - 被接受的点为：（6，5）
+2020-07-25 21:07:05,662 - phantom_go - INFO - 信息长度:2
+2020-07-25 21:07:05,662 - phantom_go - INFO - ['move', 'go']
+2020-07-25 21:07:10,287 - phantom_go - INFO - 信息长度:1
+2020-07-25 21:07:10,287 - phantom_go - INFO - ['refuse']
+2020-07-25 21:07:10,287 - phantom_go - ERROR - 被拒绝的点为：（5，6）
+2020-07-25 21:07:18,337 - phantom_go - INFO - 信息长度:1
+2020-07-25 21:07:18,338 - phantom_go - INFO - ['accept']
+2020-07-25 21:07:18,338 - phantom_go - ERROR - 被接受的点为：（6，6）
+2020-07-25 21:07:26,841 - phantom_go - INFO - 信息长度:3
+2020-07-25 21:07:26,841 - phantom_go - INFO - ['taked', '1', 'FF']
+2020-07-25 21:07:26,841 - phantom_go - ERROR - 我方被提子
+2020-07-25 21:07:26,841 - phantom_go - ERROR - 被提子周围的子为：
+2020-07-25 21:07:26,841 - phantom_go - ERROR - [(4, 5), (2, 5), (3, 4), (3, 6)]
+2020-07-25 21:07:26,842 - phantom_go - ERROR - 提子日志：
+2020-07-25 21:07:26,842 - phantom_go - ERROR - [[ 0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0 -1  0  0  0]
+ [ 0  0  0  0 -1  1 -1  0  0]
+ [ 0  0  0  0  0  1  0  0  0]
+ [ 0  0  0  1  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0]]
+2020-07-25 21:07:39,189 - phantom_go - INFO - 信息长度:2
+2020-07-25 21:07:39,189 - phantom_go - INFO - ['move', 'go']
+2020-07-25 21:41:43,306 - phantom_go - INFO - 信息长度:1
+2020-07-25 21:41:43,306 - phantom_go - INFO - ['name?']
+2020-07-25 21:41:49,081 - phantom_go - INFO - 信息长度:2
+2020-07-25 21:41:49,081 - phantom_go - INFO - ['new', 'black']
+2020-07-25 21:43:52,944 - phantom_go - INFO - 信息长度:1
+2020-07-25 21:43:52,944 - phantom_go - INFO - ['name?']
+2020-07-25 21:44:03,141 - phantom_go - INFO - 信息长度:2
+2020-07-25 21:44:03,141 - phantom_go - INFO - ['new', 'black']
+2020-07-25 21:47:46,519 - phantom_go - INFO - 信息长度:1
+2020-07-25 21:47:46,519 - phantom_go - INFO - ['name?']
+2020-07-25 21:47:51,413 - phantom_go - INFO - 信息长度:2
+2020-07-25 21:47:51,413 - phantom_go - INFO - ['new', 'black']
+2020-07-25 21:48:31,723 - phantom_go - INFO - 信息长度:2
+2020-07-25 21:48:31,723 - phantom_go - INFO - ['move', 'go']
+2020-07-25 21:48:37,299 - phantom_go - INFO - 信息长度:1
+2020-07-25 21:48:37,300 - phantom_go - INFO - ['accept']
+2020-07-25 21:48:37,300 - phantom_go - ERROR - 被接受的点为：（7，4）
+2020-07-25 21:48:43,121 - phantom_go - INFO - 信息长度:2
+2020-07-25 21:48:43,121 - phantom_go - INFO - ['move', 'go']
+2020-07-25 21:52:27,883 - phantom_go - INFO - 信息长度:1
+2020-07-25 21:52:27,883 - phantom_go - INFO - ['refuse']
+2020-07-25 21:52:27,883 - phantom_go - ERROR - 被拒绝的点为：（3，4）
+2020-07-25 21:53:42,161 - phantom_go - INFO - 信息长度:1
+2020-07-25 21:53:42,161 - phantom_go - INFO - ['name?']
+2020-07-25 21:53:48,766 - phantom_go - INFO - 信息长度:2
+2020-07-25 21:53:48,766 - phantom_go - INFO - ['new', 'black']
+2020-07-25 21:53:55,124 - phantom_go - INFO - 信息长度:1
+2020-07-25 21:53:55,124 - phantom_go - INFO - ['accept']
+2020-07-25 21:53:55,124 - phantom_go - ERROR - 被接受的点为：（5，5）
+2020-07-25 21:54:26,934 - phantom_go - INFO - 信息长度:1
+2020-07-25 21:54:26,934 - phantom_go - INFO - ['name?']
+2020-07-25 21:54:32,071 - phantom_go - INFO - 信息长度:2
+2020-07-25 21:54:32,071 - phantom_go - INFO - ['new', 'black']
+2020-07-25 21:55:22,034 - phantom_go - INFO - 信息长度:1
+2020-07-25 21:55:22,034 - phantom_go - INFO - ['name?']
+2020-07-25 21:55:26,626 - phantom_go - INFO - 信息长度:2
+2020-07-25 21:55:26,626 - phantom_go - INFO - ['new', 'black']
+2020-07-25 21:57:00,885 - phantom_go - INFO - 信息长度:1
+2020-07-25 21:57:00,885 - phantom_go - INFO - ['accept']
+2020-07-25 21:57:00,885 - phantom_go - ERROR - 被接受的点为：（7，4）
+2020-07-25 21:57:08,103 - phantom_go - INFO - 信息长度:2
+2020-07-25 21:57:08,103 - phantom_go - INFO - ['move', 'go']
+2020-07-25 21:57:19,206 - phantom_go - INFO - 信息长度:1
+2020-07-25 21:57:19,206 - phantom_go - INFO - ['accept']
+2020-07-25 21:57:19,206 - phantom_go - ERROR - 被接受的点为：（3，4）
+2020-07-25 22:01:46,134 - phantom_go - INFO - 信息长度:2
+2020-07-25 22:01:46,135 - phantom_go - INFO - ['new', 'black']
+2020-07-26 18:16:35,287 - phantom_go - INFO - 信息长度:1
+2020-07-26 18:16:35,430 - phantom_go - INFO - ['name?']
+2020-07-26 18:16:40,359 - phantom_go - INFO - 信息长度:2
+2020-07-26 18:16:40,359 - phantom_go - INFO - ['new', 'black']
+2020-07-26 18:16:47,053 - phantom_go - INFO - 信息长度:1
+2020-07-26 18:16:47,053 - phantom_go - INFO - ['accept']
+2020-07-26 18:16:47,053 - phantom_go - ERROR - 被接受的点为：（5，4）
+2020-07-26 18:16:54,933 - phantom_go - INFO - 信息长度:1
+2020-07-26 18:16:54,933 - phantom_go - INFO - ['refuse']
+2020-07-26 18:16:54,933 - phantom_go - ERROR - 被拒绝的点为：（5，4）
+2020-07-26 18:16:54,933 - phantom_go - ERROR - 捕捉到异常，被拒绝的点存在非法赋值
+2020-07-26 18:17:31,737 - phantom_go - INFO - 信息长度:1
+2020-07-26 18:17:31,737 - phantom_go - INFO - ['name?']
+2020-07-26 18:17:35,504 - phantom_go - INFO - 信息长度:2
+2020-07-26 18:17:35,504 - phantom_go - INFO - ['new', 'black']
+2020-07-26 18:17:39,683 - phantom_go - INFO - 信息长度:1
+2020-07-26 18:17:39,683 - phantom_go - INFO - ['accept']
+2020-07-26 18:17:39,684 - phantom_go - ERROR - 被接受的点为：（4，6）
+2020-07-26 18:17:59,249 - phantom_go - INFO - 信息长度:2
+2020-07-26 18:17:59,249 - phantom_go - INFO - ['move', 'go']
+2020-07-26 18:18:07,725 - phantom_go - INFO - 信息长度:1
+2020-07-26 18:18:07,725 - phantom_go - INFO - ['accept']
+2020-07-26 18:18:07,725 - phantom_go - ERROR - 被接受的点为：（4，4）
+2020-07-26 18:18:19,635 - phantom_go - INFO - 信息长度:2
+2020-07-26 18:18:19,636 - phantom_go - INFO - ['move', 'go']
+2020-07-26 18:18:40,635 - phantom_go - INFO - 信息长度:3
+2020-07-26 18:18:40,635 - phantom_go - INFO - ['taked', '1', 'CD']
+2020-07-26 18:18:40,635 - phantom_go - ERROR - 我方被提子
+2020-07-26 18:18:40,635 - phantom_go - ERROR - 被提子周围的子为：
+2020-07-26 18:18:40,635 - phantom_go - ERROR - [(4, 2), (5, 1), (6, 2), (5, 3)]
+2020-07-26 18:18:40,977 - phantom_go - ERROR - 提子日志：
+2020-07-26 18:18:40,977 - phantom_go - ERROR - [[ 0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  1  0  0  0  0  0]
+ [ 0  0 -1  0  0  0  0  0  0]
+ [ 0 -1  0  1  0  0  0  0  0]
+ [ 0  0 -1  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0]]
+2020-07-26 18:33:39,080 - phantom_go - INFO - 信息长度:1
+2020-07-26 18:33:39,080 - phantom_go - INFO - ['name?']
+2020-07-26 18:33:45,285 - phantom_go - INFO - 信息长度:2
+2020-07-26 18:33:45,285 - phantom_go - INFO - ['new', 'black']
+2020-07-26 18:33:48,961 - phantom_go - INFO - 信息长度:1
+2020-07-26 18:33:48,961 - phantom_go - INFO - ['accept']
+2020-07-26 18:33:48,961 - phantom_go - ERROR - 被接受的点为：（4，4）
+2020-07-26 18:34:04,741 - phantom_go - INFO - 信息长度:2
+2020-07-26 18:34:04,741 - phantom_go - INFO - ['move', 'go']
+2020-07-26 18:34:09,838 - phantom_go - INFO - 信息长度:1
+2020-07-26 18:34:09,838 - phantom_go - INFO - ['accept']
+2020-07-26 18:34:09,839 - phantom_go - ERROR - 被接受的点为：（5，4）
+2020-07-26 18:34:16,968 - phantom_go - INFO - 信息长度:2
+2020-07-26 18:34:16,968 - phantom_go - INFO - ['move', 'go']
+2020-07-26 18:34:33,306 - phantom_go - INFO - 信息长度:3
+2020-07-26 18:34:33,306 - phantom_go - INFO - ['taked', '1', 'EF']
+2020-07-26 18:34:33,306 - phantom_go - ERROR - 我方被提子
+2020-07-26 18:34:33,306 - phantom_go - ERROR - 被提子周围的子为：
+2020-07-26 18:34:33,306 - phantom_go - ERROR - [(3, 3), (4, 4), (2, 4), (3, 5)]
+2020-07-26 18:34:33,307 - phantom_go - ERROR - 提子日志：
+2020-07-26 18:34:33,307 - phantom_go - ERROR - [[ 0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0 -1  0  0  0  0]
+ [ 0  0  0 -1  0 -1  0  0  0]
+ [ 0  0  0  0 -1  0  0  0  0]
+ [ 0  0  0  1  1  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0]]
+2020-07-27 16:17:47,273 - phantom_go - INFO - 信息长度:2
+2020-07-27 16:17:47,291 - phantom_go - INFO - ['new', 'black']
+2020-07-27 16:18:04,208 - phantom_go - INFO - 信息长度:1
+2020-07-27 16:18:04,208 - phantom_go - INFO - ['accept']
+2020-07-27 16:18:04,208 - phantom_go - ERROR - 被接受的点为：（6，6）
+2020-07-27 16:19:04,438 - phantom_go - INFO - 信息长度:1
+2020-07-27 16:19:04,438 - phantom_go - INFO - ['accpet']
+2020-07-27 16:19:23,297 - phantom_go - INFO - 信息长度:1
+2020-07-27 16:19:23,297 - phantom_go - INFO - ['refuse']
+2020-07-27 16:19:23,298 - phantom_go - ERROR - 被拒绝的点为：（6，6）
+2020-07-27 16:19:23,298 - phantom_go - ERROR - 捕捉到异常，被拒绝的点存在非法赋值
+2020-07-27 16:22:14,139 - phantom_go - INFO - 信息长度:1
+2020-07-27 16:22:14,139 - phantom_go - INFO - ['']
+2020-07-27 16:22:14,139 - phantom_go - INFO - 信息长度:2
+2020-07-27 16:22:14,139 - phantom_go - INFO - ['new', 'black']
+2020-07-27 16:23:26,665 - phantom_go - INFO - 信息长度:1
+2020-07-27 16:23:26,665 - phantom_go - INFO - ['accpet']
+2020-07-27 16:41:17,868 - phantom_go - INFO - 信息长度:1
+2020-07-27 16:41:17,868 - phantom_go - INFO - ['']
+2020-07-27 16:41:17,868 - phantom_go - INFO - 信息长度:2
+2020-07-27 16:41:17,869 - phantom_go - INFO - ['move', 'go']
+2020-07-27 16:41:25,365 - phantom_go - INFO - 信息长度:1
+2020-07-27 16:41:25,365 - phantom_go - INFO - ['refuse']
+2020-07-27 16:41:25,365 - phantom_go - ERROR - 被拒绝的点为：（4，5）
+2020-07-27 16:41:35,488 - phantom_go - INFO - 信息长度:1
+2020-07-27 16:41:35,488 - phantom_go - INFO - ['accept']
+2020-07-27 16:41:35,488 - phantom_go - ERROR - 被接受的点为：（4，3）
+2020-07-27 16:49:05,260 - phantom_go - INFO - 信息长度:2
+2020-07-27 16:49:05,260 - phantom_go - INFO - ['move', 'go']
+2020-07-27 16:49:38,564 - phantom_go - INFO - 信息长度:1
+2020-07-27 16:49:38,564 - phantom_go - INFO - ['accpet']
+2020-07-27 16:50:42,290 - phantom_go - INFO - 信息长度:2
+2020-07-27 16:50:42,290 - phantom_go - INFO - ['new', 'black']
+2020-07-27 16:50:45,728 - phantom_go - INFO - 信息长度:1
+2020-07-27 16:50:45,728 - phantom_go - INFO - ['accpet']
+2020-07-27 16:52:17,989 - phantom_go - INFO - 信息长度:2
+2020-07-27 16:52:17,989 - phantom_go - INFO - ['move', 'go']
+2020-07-27 16:52:25,276 - phantom_go - INFO - 信息长度:1
+2020-07-27 16:52:25,276 - phantom_go - INFO - ['refuse']
+2020-07-27 16:52:25,276 - phantom_go - ERROR - 被拒绝的点为：（4，4）
+2020-07-27 16:54:34,164 - phantom_go - INFO - 信息长度:1
+2020-07-27 16:54:34,164 - phantom_go - INFO - ['name?']
+2020-07-27 17:01:05,180 - phantom_go - INFO - 信息长度:2
+2020-07-27 17:01:05,180 - phantom_go - INFO - ['new', 'black']
+2020-07-27 17:01:11,931 - phantom_go - INFO - 信息长度:1
+2020-07-27 17:01:11,931 - phantom_go - INFO - ['accept']
+2020-07-27 17:01:11,931 - phantom_go - ERROR - 被接受的点为：（5，5）
+2020-07-27 17:01:48,315 - phantom_go - INFO - 信息长度:2
+2020-07-27 17:01:48,315 - phantom_go - INFO - ['move', 'go']
+2020-07-27 17:01:52,317 - phantom_go - INFO - 信息长度:1
+2020-07-27 17:01:52,317 - phantom_go - INFO - ['accept']
+2020-07-27 17:01:52,317 - phantom_go - ERROR - 被接受的点为：（4，5）
+2020-07-27 17:03:40,878 - phantom_go - INFO - 信息长度:2
+2020-07-27 17:03:40,878 - phantom_go - INFO - ['new', 'black']
+2020-07-27 17:03:43,610 - phantom_go - INFO - 信息长度:1
+2020-07-27 17:03:43,610 - phantom_go - INFO - ['accept']
+2020-07-27 17:03:43,610 - phantom_go - ERROR - 被接受的点为：（5，4）
+2020-07-27 17:05:02,218 - phantom_go - INFO - 信息长度:2
+2020-07-27 17:05:02,218 - phantom_go - INFO - ['move', 'go']
+2020-07-27 17:05:07,024 - phantom_go - INFO - 信息长度:1
+2020-07-27 17:05:07,024 - phantom_go - INFO - ['refuse']
+2020-07-27 17:05:07,024 - phantom_go - ERROR - 被拒绝的点为：（4，4）
+2020-07-28 17:23:11,710 - phantom_go - INFO - 信息长度:1
+2020-07-28 17:23:11,710 - phantom_go - INFO - ['new']
+2020-07-28 17:23:24,593 - phantom_go - INFO - 信息长度:2
+2020-07-28 17:23:24,594 - phantom_go - INFO - ['new', 'black']
+2020-07-28 17:23:35,454 - phantom_go - INFO - 信息长度:1
+2020-07-28 17:23:35,455 - phantom_go - INFO - ['accept']
+2020-07-28 17:23:35,455 - phantom_go - ERROR - 被接受的点为：（4，5）
+2020-08-13 08:24:55,693 - phantom_go - INFO - 信息长度:2
+2020-08-13 08:24:55,785 - phantom_go - INFO - ['new', 'black']
+2020-08-13 08:25:20,344 - phantom_go - INFO - 信息长度:1
+2020-08-13 08:25:20,345 - phantom_go - INFO - ['accept']
+2020-08-13 08:25:20,345 - phantom_go - ERROR - 被接受的点为：（6，5）
+2020-08-13 08:25:41,526 - phantom_go - INFO - 信息长度:2
+2020-08-13 08:25:41,526 - phantom_go - INFO - ['move', 'go']
+2020-08-13 08:25:46,116 - phantom_go - INFO - 信息长度:1
+2020-08-13 08:25:46,116 - phantom_go - INFO - ['refuse']
+2020-08-13 08:25:46,117 - phantom_go - ERROR - 被拒绝的点为：（5，5）
+2020-08-13 08:25:50,681 - phantom_go - INFO - 信息长度:1
+2020-08-13 08:25:50,681 - phantom_go - INFO - ['accept']
+2020-08-13 08:25:50,682 - phantom_go - ERROR - 被接受的点为：（5，4）
+2020-08-13 08:26:23,676 - phantom_go - INFO - 信息长度:2
+2020-08-13 08:26:23,676 - phantom_go - INFO - ['move', 'go']
+2020-08-13 08:26:30,287 - phantom_go - INFO - 信息长度:1
+2020-08-13 08:26:30,288 - phantom_go - INFO - ['accept']
+2020-08-13 08:26:30,288 - phantom_go - ERROR - 被接受的点为：（4，5）
+2020-08-13 23:05:16,312 - phantom_go - INFO - 信息长度:2
+2020-08-13 23:05:16,327 - phantom_go - INFO - ['new', 'black']
+2020-08-13 23:05:19,703 - phantom_go - INFO - 信息长度:1
+2020-08-13 23:05:19,704 - phantom_go - INFO - ['accept']
+2020-08-13 23:05:19,704 - phantom_go - ERROR - 被接受的点为：（6，4）
+2020-08-13 23:05:22,781 - phantom_go - INFO - 信息长度:2
+2020-08-13 23:05:22,781 - phantom_go - INFO - ['move', 'go']
+2020-08-13 23:05:32,333 - phantom_go - INFO - 信息长度:1
+2020-08-13 23:05:32,333 - phantom_go - INFO - ['accept']
+2020-08-13 23:05:32,333 - phantom_go - ERROR - 被接受的点为：（5，4）
+2020-08-13 23:05:39,302 - phantom_go - INFO - 信息长度:1
+2020-08-13 23:05:39,302 - phantom_go - INFO - ['refuse']
+2020-08-13 23:05:39,302 - phantom_go - ERROR - 被拒绝的点为：（5，4）
+2020-08-13 23:05:39,303 - phantom_go - ERROR - 捕捉到异常，被拒绝的点存在非法赋值
+2020-08-13 23:06:34,184 - phantom_go - INFO - 信息长度:2
+2020-08-13 23:06:34,184 - phantom_go - INFO - ['new', 'black']
+2020-08-13 23:06:37,139 - phantom_go - INFO - 信息长度:1
+2020-08-13 23:06:37,140 - phantom_go - INFO - ['accept']
+2020-08-13 23:06:37,140 - phantom_go - ERROR - 被接受的点为：（5，6）
+2020-08-13 23:06:40,809 - phantom_go - INFO - 信息长度:2
+2020-08-13 23:06:40,809 - phantom_go - INFO - ['move', 'go']
+2020-08-13 23:06:42,837 - phantom_go - INFO - 信息长度:1
+2020-08-13 23:06:42,837 - phantom_go - INFO - ['accept']
+2020-08-13 23:06:42,837 - phantom_go - ERROR - 被接受的点为：（4，6）
+2020-08-13 23:06:45,785 - phantom_go - INFO - 信息长度:1
+2020-08-13 23:06:45,785 - phantom_go - INFO - ['refuse']
+2020-08-13 23:06:45,785 - phantom_go - ERROR - 被拒绝的点为：（4，6）
+2020-08-13 23:06:45,785 - phantom_go - ERROR - 捕捉到异常，被拒绝的点存在非法赋值
+2020-08-13 23:08:29,717 - phantom_go - INFO - 信息长度:2
+2020-08-13 23:08:29,717 - phantom_go - INFO - ['new', 'black']
+2020-08-13 23:08:34,041 - phantom_go - INFO - 信息长度:1
+2020-08-13 23:08:34,041 - phantom_go - INFO - ['refuse']
+2020-08-13 23:08:34,041 - phantom_go - ERROR - 被拒绝的点为：（4，6）
+2020-08-13 23:08:37,333 - phantom_go - INFO - 信息长度:1
+2020-08-13 23:08:37,333 - phantom_go - INFO - ['accept']
+2020-08-13 23:08:37,333 - phantom_go - ERROR - 被接受的点为：（4，4）
+2020-08-13 23:08:41,412 - phantom_go - INFO - 信息长度:1
+2020-08-13 23:08:41,412 - phantom_go - INFO - ['refuse']
+2020-08-13 23:08:41,412 - phantom_go - ERROR - 被拒绝的点为：（4，4）
+2020-08-13 23:08:41,412 - phantom_go - ERROR - 捕捉到异常，被拒绝的点存在非法赋值
+2020-08-13 23:09:05,826 - phantom_go - INFO - 信息长度:2
+2020-08-13 23:09:05,826 - phantom_go - INFO - ['new', 'black']
+2020-08-13 23:09:08,231 - phantom_go - INFO - 信息长度:1
+2020-08-13 23:09:08,232 - phantom_go - INFO - ['accpet']
+2020-08-13 23:09:14,182 - phantom_go - INFO - 信息长度:1
+2020-08-13 23:09:14,182 - phantom_go - INFO - ['accept']
+2020-08-13 23:09:14,182 - phantom_go - ERROR - 被接受的点为：（5，6）
+2020-08-13 23:09:17,138 - phantom_go - INFO - 信息长度:2
+2020-08-13 23:09:17,138 - phantom_go - INFO - ['move', 'go']
+2020-08-13 23:09:20,528 - phantom_go - INFO - 信息长度:1
+2020-08-13 23:09:20,528 - phantom_go - INFO - ['accept']
+2020-08-13 23:09:20,528 - phantom_go - ERROR - 被接受的点为：（4，6）
+2020-08-13 23:09:25,430 - phantom_go - INFO - 信息长度:2
+2020-08-13 23:09:25,430 - phantom_go - INFO - ['move', 'go']
+2020-08-13 23:09:28,157 - phantom_go - INFO - 信息长度:1
+2020-08-13 23:09:28,157 - phantom_go - INFO - ['new']
+2020-08-13 23:10:12,834 - phantom_go - INFO - 信息长度:2
+2020-08-13 23:10:12,834 - phantom_go - INFO - ['new', 'black']
+2020-08-13 23:10:15,643 - phantom_go - INFO - 信息长度:1
+2020-08-13 23:10:15,643 - phantom_go - INFO - ['accept']
+2020-08-13 23:10:15,643 - phantom_go - ERROR - 被接受的点为：（4，6）
+2020-08-13 23:10:17,973 - phantom_go - INFO - 信息长度:2
+2020-08-13 23:10:17,973 - phantom_go - INFO - ['move', 'go']
+2020-08-13 23:10:20,140 - phantom_go - INFO - 信息长度:1
+2020-08-13 23:10:20,140 - phantom_go - INFO - ['accetp']
+2020-08-13 23:10:22,624 - phantom_go - INFO - 信息长度:1
+2020-08-13 23:10:22,624 - phantom_go - INFO - ['accept']
+2020-08-13 23:10:22,625 - phantom_go - ERROR - 被接受的点为：（3，6）
+2020-08-13 23:10:26,776 - phantom_go - INFO - 信息长度:1
+2020-08-13 23:10:26,776 - phantom_go - INFO - ['restart']
+2020-08-17 23:03:14,229 - phantom_go - INFO - 信息长度:2
+2020-08-17 23:03:14,251 - phantom_go - INFO - ['new', 'black']
+2020-08-17 23:03:17,197 - phantom_go - INFO - 信息长度:1
+2020-08-17 23:03:17,197 - phantom_go - INFO - ['accpet']
+2020-08-17 23:03:19,573 - phantom_go - INFO - 信息长度:2
+2020-08-17 23:03:19,573 - phantom_go - INFO - ['move', 'go']
+2020-08-17 23:03:25,684 - phantom_go - INFO - 信息长度:1
+2020-08-17 23:03:25,684 - phantom_go - INFO - ['accept']
+2020-08-17 23:03:25,684 - phantom_go - ERROR - 被接受的点为：（5，4）
+2020-08-17 23:03:28,390 - phantom_go - INFO - 信息长度:2
+2020-08-17 23:03:28,391 - phantom_go - INFO - ['move', 'go']
+2020-08-17 23:04:27,773 - phantom_go - INFO - 信息长度:1
+2020-08-17 23:04:27,773 - phantom_go - INFO - ['accept']
+2020-08-17 23:04:27,773 - phantom_go - ERROR - 被接受的点为：（6，4）
+2020-08-17 23:04:29,757 - phantom_go - INFO - 信息长度:2
+2020-08-17 23:04:29,757 - phantom_go - INFO - ['move', 'go']
